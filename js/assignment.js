@@ -1,5 +1,5 @@
-const myForm = document.getElementById('#myForm')
-const nameInput = document.getElementById('#name');
+const myForm = document.getElementById('#myForm').value;
+const nameInput = document.getElementById('#name').value;
 const emailInput = document.getElementById('#email');
 
 myForm.addEventListener('submit',onSubmit);
