@@ -68,8 +68,19 @@ strong.focus{
 padding-top: 80px;
 padding-right: 70px;
 padding-bottom: 80px;
-padding-left: 80px;*//
+padding-left: 80px;*/
 
 #wht{
     color: black;
  }
+#wht-text0{
+    color: black;
+    display: none;
+}
+#wht-text1{
+    color: black;
+    display: none;
+}#wht-text2{
+    color: black;
+    display: none;
+}
