@@ -9,7 +9,7 @@ h3{
     text-align: center;
     color: azure;
 }
-h4{
+#Ser{
     text-align: center;
     color: azure;
 }
@@ -52,11 +52,24 @@ input {
 
 div{
     text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
+.row1{
+    float: left;
+    text-align: left;
+}
 
+strong.focus{
+    color: rgb(252, 247, 250);
 }
 /*
 padding-top: 80px;
 padding-right: 70px;
 padding-bottom: 80px;
-padding-left: 80px;
+padding-left: 80px;*//
+
+#wht{
+    color: black;
+ }
