@@ -85,6 +85,11 @@ padding-left: 80px;*/
     display: none;
 }
 #img-mouse{
-    padding-top: 40px;
+    padding-top: 100px;
     padding-bottom: 20px;
+}
+
+#port{
+    text-align: center;
+
 }

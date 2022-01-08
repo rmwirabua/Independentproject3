@@ -12,4 +12,11 @@ $(document).ready(function(){
     $("img#img-product").toggle();
   });
 
+  $("img#work0").mouse.hover(function(){
+    $("p#work0").hide();
+  });
+
+
+
 });
+
