@@ -91,5 +91,18 @@ padding-left: 80px;*/
 
 #port{
     text-align: center;
-
+ 
 }
+
+
+#p1{
+    display: none;
+    color: black;
+}
+img{
+        opacity: 1.0;
+      }
+      
+      img:hover {
+        opacity: 0.5;
+      }
