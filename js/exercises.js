@@ -12,13 +12,15 @@ $(document).ready(function(){
     $("img#img-product").toggle();
   });
 
-  $("img#img-work2").hover(function(){
-    $("p#p1").toggle();
+  $("img#img-work1").hover(function(){
 
-    $()
-     });
-
+  });
+  $("#submit").click(function(){
+    var nameInput = $("input#name").val();
+    var emailInput = $("input#email").val();
+    var textInput = $("input#text").val();
+    alert("Hi "+ nameInput + ", we have received your message. Thank you fro reaching out to us.").val();
+  });
 
 
 });
-
