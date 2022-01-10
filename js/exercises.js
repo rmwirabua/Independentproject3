@@ -19,7 +19,7 @@ $(document).ready(function(){
     var nameInput = $("input#name").val();
     var emailInput = $("input#email").val();
     var textInput = $("input#text").val();
-    alert("Hi "+ nameInput + ", we have received your message. Thank you fro reaching out to us.").val();
+    alert("Hi "+ nameInput + ", we have received your message. Thank you for reaching out to us.").val();
   });
 
 

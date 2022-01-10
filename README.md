@@ -5,7 +5,7 @@ Independent Project week 3
 A website for delani studio with company portfolio.
 
 # Project link
-https://rmwirabua.github.io/independentproject3/
+https://rmwirabua.github.io/Independentproject3/
 ---
 # Author Of the Project
 Richard Gitonga
