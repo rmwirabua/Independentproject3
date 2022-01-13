@@ -20,7 +20,15 @@ $(document).ready(function(){
     var emailInput = $("input#email").val();
     var textInput = $("input#text").val();
     alert("Hi "+ nameInput + ", we have received your message. Thank you for reaching out to us.").val();
+
   });
 
-
 });
+// if (emailInput == " ") {
+//   alert('the email field cannot be blank')
+//   return false;
+// }
+// if (textInput == " "){
+//   alert('the email field cannot be blank')
+//      return false;
+// }
