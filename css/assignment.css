@@ -1,68 +1,65 @@
-button{
-    color: aqua;
+button {
+  color: aqua;
 }
-p{
-    text-align: center;
-
+p {
+  text-align: center;
 }
-h3{
-    text-align: center;
-    color: azure;
+h3 {
+  text-align: center;
+  color: azure;
 }
-#Ser{
-    text-align: center;
-    color: azure;
+#Ser {
+  text-align: center;
+  color: azure;
 }
-label{
-    text-align: center;
-
+label {
+  text-align: center;
 }
-.focus{
-   color: azure;
+.focus {
+  color: azure;
 }
-h2{
-
-    text-align: center;
-    color: azure;
+h2 {
+  text-align: center;
+  color: azure;
 }
-img{
-    text-align: center;
+img {
+  text-align: center;
 }
 
-div.box{
-    text-align: center;
+div.box {
+  text-align: center;
 }
 
-p{
-    color: azure;
+p {
+  color: azure;
 }
 
-form{
-    align-items: center;
+form {
+  align-items: center;
 }
 input {
-    background-color: rgba(0,0,0,0.8);
-    color: #FFF;
-    border: none;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border: none;
 }
 .WELCOME {
-    text-align: center;
-    color: azure;
+  text-align: center;
+  color: azure;
 }
 
-div{
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+div {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
-.row1{
-    float: left;
-    text-align: left;
+.row1 {
+  float: left;
+  text-align: left;
 }
 
-strong.focus{
-    color: rgb(252, 247, 250);
+strong.focus {
+  color: rgb(252, 247, 250);
 }
 /*
 padding-top: 80px;
@@ -70,42 +67,75 @@ padding-right: 70px;
 padding-bottom: 80px;
 padding-left: 80px;*/
 
-#wht{
-    color: black;
- }
-#wht-text0{
-    color: black;
-    display: none;
+#wht {
+  color: black;
 }
-#wht-text1{
-    color: black;
-    display: none;
-}#wht-text2{
-    color: black;
-    display: none;
+#wht-text0 {
+  color: black;
+  display: none;
 }
-#img-mouse{
-    padding-top: 100px;
-    padding-bottom: 20px;
+#wht-text1 {
+  color: black;
+  display: none;
 }
-
-#port{
-    text-align: center;
- 
+#wht-text2 {
+  color: black;
+  display: none;
+}
+#img-mouse {
+  padding-top: 100px;
+  padding-bottom: 20px;
 }
 
-
-#p1{
-    display: none;
-    color: black;
+#port {
+  text-align: center;
 }
-img{
-        opacity: 1.0;
-      }
-      
-      img:hover {
-        opacity: 0.5;
-      }
-#wht-text1-work8{
-    color: black;
+
+#p1 {
+  display: none;
+  color: black;
+}
+img {
+  opacity: 1;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+#wht-text1-work8 {
+  color: black;
+}
+
+#work1 {
+  display: none;
+  color: black;
+}
+#work2 {
+  display: none;
+  color: black;
+}
+#work3 {
+  display: none;
+  color: black;
+}
+
+#work4 {
+  display: none;
+  color: black;
+}
+#work5 {
+  display: none;
+  color: black;
+}
+#work6 {
+  display: none;
+  color: black;
+}
+#work7 {
+  display: none;
+  color: black;
+}
+#work8 {
+  display: none;
+  color: black;
 }

@@ -11,9 +11,29 @@ $(document).ready(function(){
     $("p#wht-text2").toggle();
     $("img#img-product").toggle();
   });
-
   $("img#img-work1").hover(function(){
-
+    $("P#work1").show();
+  });
+  $("img#img-work2").hover(function(){
+    $("P#work2").show();
+  });
+   $("img#img-work3").hover(function(){
+    $("P#work3").show();
+  });
+     $("img#img-work4").hover(function(){
+    $("P#work4").show();
+  });
+     $("img#img-work5").hover(function(){
+    $("P#work5").show();
+  });
+     $("img#img-work6").hover(function(){
+    $("P#work6").show();
+  });
+     $("img#img-work7").hover(function(){
+    $("P#work7").show();
+  });
+     $("img#img-work8").hover(function(){
+    $("P#work8").show();
   });
   $("#submit").click(function(){
     var nameInput = $("input#name").val();
@@ -24,11 +44,9 @@ $(document).ready(function(){
   });
 
 });
-// if (emailInput == " ") {
-//   alert('the email field cannot be blank')
-//   return false;
+
+// if (emailInput == "") {
+//  alert('the email field cannot be blank')
+//  return false;
 // }
-// if (textInput == " "){
-//   alert('the email field cannot be blank')
-//      return false;
-// }
+
